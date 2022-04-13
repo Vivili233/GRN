@@ -1,7 +1,7 @@
 Graph Relation Networks for Few-shot Node Classification on Attributed Networks
 ============
 
-## Graph Relation Networks (GPN)
+## Graph Relation Networks (GRN)
 
 This is the source code of paper ["Graph Relation Networks for Few-shot Node
 Classification on Attributed Networks"](https://arxiv.org/pdf/2006.12739.pdf).
