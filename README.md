@@ -1,7 +1,7 @@
-Graph Prototypical Networks for Few-shot Learning on Attributed Networks (CIKM2020)
+Graph Relation Networks for Few-shot Node Classification on Attributed Networks
 ============
 
-## Graph Prototypical Networks (GPN)
+## Graph Relation Networks (GPN)
 
 This is the source code of paper ["Graph Relation Networks for Few-shot Node
 Classification on Attributed Networks"](https://arxiv.org/pdf/2006.12739.pdf).
